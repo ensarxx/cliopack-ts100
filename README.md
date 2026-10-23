@@ -1,6 +1,6 @@
 # Cliopack TS-100 · Safety 4.0 Güvenlik ve Emniyet Analizi
 
-**Hazırlayan:** Ensar Daş
+**Hazırlayan:** Ensar Daş · **Grup:** Gündüz B
 
 Safety 4.0 Bootcamp laboratuvar föylerinden **Lab 1–4**, genel sürümdeki şişeleme hattı yerine **Cliopack TS-100 Yarı Otomatik Tabak Kapatma Makinası** için doldurulmuştur. Ek olarak makinenin **SWOT analizi** hazırlanmıştır.
 
